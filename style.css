@@ -1,0 +1,61 @@
+
+
+
+
+
+section {
+    background-color: yellowgreen;
+
+
+}
+.logo{
+    width: 80px;
+    
+
+}
+header nav {
+    float: right;
+
+}
+
+
+.bigone {
+    width: 100%;
+}
+#section1 {
+    width: 100%;
+    display: inline-block;
+}
+table { 
+    width: 40%;
+    border-collapse: collapse;
+    display: inline-block;
+
+}
+table td {
+    border: 1px solid red; 
+}
+article {
+    width: 50%;
+    float: left;
+} 
+
+
+form * {
+    width: 100%;
+    /* padding-top: 20px; */
+    /* background-color:tomato */
+}
+
+footer {
+    text-align: center;
+    background-color: turquoise;
+
+}
+
+
+
+
+
+
+
